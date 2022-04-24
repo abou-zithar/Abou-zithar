@@ -6,7 +6,7 @@
 ##  My Bio:
  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
  
-- 🌱 I’m currently having an apprenticeship with Amit Learning [AnitLearnigTasks](https://github.com/abou-zithar/AMIT.Machine.learning)
+- 🌱 I’m currently having an apprenticeship with Amit Learning [AmitLearnigTasks](https://github.com/abou-zithar/AMIT.Machine.learning)
 
 - 💬 Ask me about **Machine learning algorthims**
 
