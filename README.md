@@ -1,10 +1,28 @@
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 <h1 align="center">Hi 👋, I'm mahmoud</h1>
+
+
+
 <h3 align="center">A passionate Machine learning developer from Egypt</h3>
 
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abou-zithar&label=Profile%20views&color=0e75b6&style=flat" alt="abou-zithar" /> </p>
+<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Data%20Science-red" />
+<img src="https://img.shields.io/badge/Lives-Alexandria-blue" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic-orange" />
+	<img src="https://img.shields.io/badge/State-Fresh%20Graduate-blueviolet" />
 
 ##  My Bio:
- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<!--  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
  
 - 🌱 I’m currently having an apprenticeship with Amit Learning [AmitLearnigTasks](https://github.com/abou-zithar/AMIT.Machine.learning)
 
