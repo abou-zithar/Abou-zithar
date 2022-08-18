@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **mahmoudabouzit@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/18DHIY-oEZ3jR9xA6nxTC2yL5uQHlgaL3/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1_rP1-qzVBuCypK_uuaYyd716U-zDOIqo/view?usp=sharing)
 
 - 📄 Currently reading [Hands-on Machine Learning With Scikit-learn,Keras& Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2NJNQNMW79MWO&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1650770679&sprefix=hands+on+machin+%2Caps%2C220&sr=8-1)
 
