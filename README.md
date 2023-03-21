@@ -15,7 +15,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abou-zithar&label=Profile%20views&color=0e75b6&style=flat" alt="abou-zithar" /> </p>
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Data%20Science-red" />
 <img src="https://img.shields.io/badge/Lives-Alexandria-blue" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic-orange" />
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **mahmoudabouzit@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1_rP1-qzVBuCypK_uuaYyd716U-zDOIqo/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1tFYxPfMmTtjoBF4n_QzFTi_3WQZeb0Cc/view?usp=share_link)
 
 - 📄 Currently reading [Hands-on Machine Learning With Scikit-learn,Keras& Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2NJNQNMW79MWO&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1650770679&sprefix=hands+on+machin+%2Caps%2C220&sr=8-1)
 
