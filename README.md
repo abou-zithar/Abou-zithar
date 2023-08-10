@@ -44,11 +44,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abou-zithar&" alt="abou-zithar" />
 </div>
 
-## 📉 Activity Stats
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
-</div>
 
 ## 📱 Connect with Me
 
