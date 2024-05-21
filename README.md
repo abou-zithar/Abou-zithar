@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Mahmoud</h1>
 
-<h3 align="center">A Passionate Machine Learning Developer from Egypt</h3>
+<h3 align="center">A Passionate Computer Vision Developer from Egypt</h3>
 
 <p align="center"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"></p>
 
@@ -23,12 +23,12 @@
 
 ## 📖 About Me
 
-- 🌱 I’m currently working as a Software Engineer at PC-link
+- 🌱 I’m currently working as a teaching Assistant at AIU
 - 📚 I had an apprenticeship with Amit Learning [AmitLearnigTasks](https://github.com/abou-zithar/AMIT.Machine.learning)
-- 💬 Ask me about **Machine learning algorithms**
+- 💬 Ask me about **Computer vision Questions**
 - 📫 How to reach me: [mahmoudabouzit@gmail.com](mailto:mahmoudabouzit@gmail.com)
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1tFYxPfMmTtjoBF4n_QzFTi_3WQZeb0Cc/view?usp=share_link)
-- 📚 Currently reading: [Hands-on Machine Learning with Scikit-learn, Keras & TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2NJNQNMW79MWO&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1650770679&sprefix=hands+on+machin+%2Caps%2C220&sr=8-1)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1By8ObEXDHOAlFWAIiWZan2U5KDTxKTc9/view?usp=sharing)
+- 📚 Currently reading: [Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play, 2nd Edition](https://books.google.com.eg/books/about/Generative_Deep_Learning.html?id=RqegDwAAQBAJ&redir_esc=y)
 
 ## 🛠️ Languages and Tools
 
