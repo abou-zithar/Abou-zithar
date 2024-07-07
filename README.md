@@ -15,10 +15,10 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Age-23-blue">
-    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Data%20Science-red">
+    <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Data%20Science-red">
     <img src="https://img.shields.io/badge/Lives-Alexandria-blue">
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic-orange">
-    <img src="https://img.shields.io/badge/State-Fresh%20Graduate-blueviolet">
+    <img src="https://img.shields.io/badge/State-Teaching%20Assistant-blueviolet">
 </p>
 
 ## 📖 About Me
