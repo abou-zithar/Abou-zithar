@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Mahmoud</h1>
 
-<h3 align="center">A Passionate Computer Vision Developer from Egypt</h3>
+<h3 align="center">A Passionate Software Engineer from Egypt</h3>
 
 <p align="center"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"></p>
 
@@ -15,19 +15,18 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Age-23-blue">
-    <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Data%20Science-red">
+    <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Data%20Science%20Software%20Engineering%20-red">
     <img src="https://img.shields.io/badge/Lives-Alexandria-blue">
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic-orange">
-    <img src="https://img.shields.io/badge/State-Teaching%20Assistant-blueviolet">
+    <img src="https://img.shields.io/badge/State-Software%20Engineer-blueviolet">
 </p>
 
 ## 📖 About Me
 
-- 🌱 I’m currently working as a teaching Assistant at AIU
-- 📚 I had an apprenticeship with Amit Learning [AmitLearnigTasks](https://github.com/abou-zithar/AMIT.Machine.learning)
-- 💬 Ask me about **Computer vision Questions**
+- 🌱 I’m currently working as a Software Engineer at Ejada Systems
+- 💬 Ask me **Any Questions** I will help if I can.
 - 📫 How to reach me: [mahmoudabouzit@gmail.com](mailto:mahmoudabouzit@gmail.com)
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1By8ObEXDHOAlFWAIiWZan2U5KDTxKTc9/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/10e5OA01mhlXzcnBrffTLnko59zjPMaPe/view?usp=drive_link)
 - 📚 Currently reading: [Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play, 2nd Edition](https://books.google.com.eg/books/about/Generative_Deep_Learning.html?id=RqegDwAAQBAJ&redir_esc=y)
 
 ## 🛠️ Languages and Tools
