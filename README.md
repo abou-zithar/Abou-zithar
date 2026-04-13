@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-23-blue">
+    <img src="https://img.shields.io/badge/Age-26-blue">
     <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Data%20Science%20Software%20Engineering%20-red">
     <img src="https://img.shields.io/badge/Lives-Alexandria-blue">
     <img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic-orange">
