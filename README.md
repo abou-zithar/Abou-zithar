@@ -1,8 +1,5 @@
 <div align="center">
 
-<a href="https://abou-zithar.github.io">
-  <img src="https://abou-zithar.github.io/profile.png" alt="Mahmoud Zithar" width="140" style="border-radius:50%" />
-</a>
 
 # 👋 Hi, I'm Mahmoud Zithar
 
@@ -42,7 +39,7 @@
 - 🎓 **Before banking:** Teaching Assistant at **AIU** and **AAST**, supporting 17 courses from Structured Programming to GANs.
 - 🌐 **Full story, timeline and recommendations:** **[abou-zithar.github.io](https://abou-zithar.github.io)**
 - 📫 **Reach me:** [mahmoudabouzit@gmail.com](mailto:mahmoudabouzit@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abou-zithar)
-- 📄 **CV:** [Google Drive](https://drive.google.com/file/d/10e5OA01mhlXzcnBrffTLnko59zjPMaPe/view?usp=drive_link)
+- 📄 **CV:** [Google Drive](https://drive.google.com/file/d/17SxNQx8XwD5ekaMAHfHFVbzW9eZrZT1D/view?usp=sharing)
 
 ## 🧭 My Journey
 
