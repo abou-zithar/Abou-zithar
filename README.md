@@ -64,8 +64,8 @@ As a Teaching Assistant I ran labs, sections and student projects across:
 > **Software:** Structured Programming · OOP · Java · Python · Software Engineering · RESTful API Design · Agile<br>
 > **Systems & Cloud:** Computer Networks · Cybersecurity · AWS
 
-> *"I had the privilege of learning from Mahmoud, he taught me Structured Programming, Intro to AI, and Machine Learning. He has deep understanding of AI topics and dedication to helping students. A truly decent and helpful TA."*
-> **Gamal Abouelhamd Hussein**, former student
+> *"I had the privilege of learning from Mahmoud, he taught me Structured Programming, Intro to AI, and Machine Learning. He has deep understanding of AI topics and dedication to helping students. A truly decent and helpful TA."*<br>
+> — **Gamal Abouelhamd Hussein**, former student
 
 ➡️ More recommendations from coworkers and classmates on **[my website](https://abou-zithar.github.io/#recommendations)**.
 
