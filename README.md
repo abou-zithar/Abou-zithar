@@ -107,7 +107,7 @@ As a Teaching Assistant I ran labs, sections and student projects across:
 
 | Project | Highlights |
 | :--- | :--- |
-| 🦷 **Dental Clinic Management (Backend API)** | Spring Boot REST API: patients, appointments, medical records, scan uploads · JWT + role-based access |
+| 🦷 **[Dental Clinic Management System](https://abou-zithar.github.io/#projects)** · *Freelance* | **Sold to a dental clinic in Damanhour, Egypt** · Spring Boot + React, shipped as a Windows app · patients, X-rays, billing, finance, backups · English & Arabic |
 | ⚽ **[Football Analysis System](https://github.com/abou-zithar/Computer-vision-Project-4-Football-Analysis-system)** | Real-time player tracking with YOLOv8 · **85% precision** |
 | 🔬 **Teeth Classification with ResNet50** | CNN trained on 1000+ images · **92% accuracy** · deployed with Streamlit |
 | 🚚 **Truck Trip Analysis & Prediction** | Predicted trip delays from historical data · **−20% downtime** |
